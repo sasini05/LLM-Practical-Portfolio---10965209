@@ -1,0 +1,34 @@
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local experiment logs and caches
+wandb/
+mlruns/
+.cache/
+
+# Large downloadable model artifacts (link externally when needed)
+*.safetensors
+*.gguf
+*.ckpt
+
+# Local raw/personal datasets (use separate citations or approved links)
+**/data/raw/
