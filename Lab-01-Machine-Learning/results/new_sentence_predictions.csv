@@ -1,0 +1,5 @@
+sentence,clean_text,predicted_label,predicted_sentiment
+I absolutely loved this movie!,i absolutely loved this movie,1,Positive
+The food was cold and disappointing.,the food was cold and disappointing,0,Negative
+This product works perfectly.,this product works perfectly,1,Positive
+I would not recommend it to anyone.,i would not recommend it to anyone,0,Negative

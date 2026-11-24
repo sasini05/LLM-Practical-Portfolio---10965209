@@ -1,0 +1,10 @@
+# Lab 01 Python packages (pip)
+# Use Python 3.10+ and the VS Code Python + Jupyter extensions.
+# The lab sheet lists Pandas, NumPy, NLTK, Scikit-learn, Matplotlib and Seaborn.
+pandas>=2.0,<3
+numpy>=1.24,<3
+nltk>=3.8,<4
+scikit-learn>=1.3,<2
+matplotlib>=3.7,<4
+seaborn>=0.12,<1
+ipykernel>=6.20,<8
