@@ -1,0 +1,3 @@
+model,layers,parameters,validation_loss,perplexity
+2 layers (baseline),2,80714,2.037976098060608,7.675059900441639
+1 layer (experiment),1,47242,2.1170301914215086,8.306432307094612
